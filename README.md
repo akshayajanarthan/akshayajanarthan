@@ -15,3 +15,4 @@ I combine technical expertise with a strong design perspective to deliver produc
 📬 Let’s Connect!
 [LinkedIn](https://linkedin.com/in/akshaya-priya-09087525b) | [Whatsapp](https://wa.me/qr/P5IYFJBFN5MPC1) | [Mail](mailto:akshayajanarthareddy@gmail.com)
 
+[![Akshaya Janarthan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshayajanarthan)](https://github.com/anuraghazra/github-readme-stats)
