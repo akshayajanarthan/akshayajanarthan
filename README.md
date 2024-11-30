@@ -13,5 +13,5 @@ A passionate developer and designer combining technical expertise with creativit
 I combine technical expertise with a strong design perspective to deliver products that look great and perform even better.
 
 📬 Let’s Connect!
-[linkedIn](https://linkedin.com/in/akshaya-priya-09087525b)
+[LinkedIn](https://linkedin.com/in/akshaya-priya-09087525b) | [Whatsapp](https://wa.me/qr/P5IYFJBFN5MPC1) | [Mail](mailto:akshayajanarthareddy@gmail.com)
 
