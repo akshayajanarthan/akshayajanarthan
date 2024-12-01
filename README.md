@@ -4,10 +4,11 @@ A passionate developer and designer combining technical expertise with creativit
 
 💡 Skills & Expertise:
 - Frontend: HTML, CSS, JavaScript, React
-- Backend: Node.js, Express, Python (Django/Flask)
+- Backend: Node.js, Express, Python, R
 - Databases: MySQL, PostgreSQL, MongoDB
 - UI/UX Tools: Figma, Adobe XD, Sketch
-- Other Tools: Git, LaTeX
+- Other Tools: Git, LaTeX, Tableau, Power BI
+- Miscellaneous: Machine Learning, Data Analysis, Image processing
 
 🌟 Why Work With Me?
 I combine technical expertise with a strong design perspective to deliver products that look great and perform even better.
